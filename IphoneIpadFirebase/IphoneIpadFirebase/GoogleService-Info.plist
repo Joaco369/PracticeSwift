@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>use the library</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZJl1UjcDHBFfq6_BcWL_OzwF9DPewxSY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>866468025520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.villarreal.IphoneIpadFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>fir-crud-6f5fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-crud-6f5fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:866468025520:ios:a88076b09afda818249775</string>
+</dict>
+</plist>

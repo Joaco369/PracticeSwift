@@ -1,0 +1,134 @@
+{
+  "identifier" : "F27CFD72",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "53D995EE",
+      "localizations" : [
+        {
+          "description" : "Book written by Morgan Housel",
+          "displayName" : "TheCodeOfMoney",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.villarreal.BookStore.TheCodeOfMoney",
+      "referenceName" : "TheCodeOfMoney",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1B3082C2",
+      "localizations" : [
+        {
+          "description" : "Book written by Grant Cardone",
+          "displayName" : "DoYouSellOrSell",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.villarreal.BookStore.DoYouSellOrSell",
+      "referenceName" : "DoYouSellOrSell",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "0F5BBE8F",
+      "localizations" : [
+
+      ],
+      "name" : "Full Access",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "4815401B",
+          "introductoryOffer" : {
+            "displayPrice" : "0.99",
+            "internalID" : "1386C812",
+            "paymentMode" : "none"
+          },
+          "localizations" : [
+            {
+              "description" : "Access to all Books",
+              "displayName" : "Full Access",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.villarreal.BookStore.FullAccess",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Full Access",
+          "subscriptionGroupID" : "0F5BBE8F",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
